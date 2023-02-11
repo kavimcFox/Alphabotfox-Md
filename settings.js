@@ -31,11 +31,11 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
+global.botname = "FOXAlpa" //namabot kalian
 global.ownername = "Foxvpn" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
+global.myweb = "" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@BlackShadowSL" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
+global.myweb2 = "" //bebas
 global.email = "foxvpninternet@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
@@ -47,7 +47,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
+global.packname = '© FoxAlphabot' //sticker wm ubah
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
