@@ -48,7 +48,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© FoxAlphabot' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.author = 'By FoxVpnBot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -122,17 +122,17 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-   bot: 'Fitur Khusus Pengguna Nomor Bot',
-   errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
+   sukses: '🤗Done',
+   admin: 'මෙම විධානය භාවිතා කළ හැක්කේ ADMIN පමණි!',
+   botAdmin: 'මෙම විධානය භාවිතා කළ හැක්කේ bot ADMIN වූ විට පමණි!',
+   owner: 'මෙම විධානය භාවිතා කළ හැක්කේ BOT OWNER පමණි!',
+   group: 'මෙම විධානය භාවිතා කළ හැක්කේ Group පමණි!',
+   private: 'මෙම විධානය භාවිතා කළ හැක්කේ PRIVATE පමණි!',
+   bot: 'Bot Number භාවිතා කරන්නන් සඳහා විශේෂ විශේෂාංග',
+   errtoimg: 'සමාවන්න, දැනට Gif ස්ටිකරයට සහය නොදක්වයි!',
    wait: '⏳ *Loding*',
-   lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-   example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+   lockCmd: 'විශේෂාංගය හිමිකරු විසින් සක්‍රිය කර නැත!',
+   example1: 'Welcome @user Di Group @subject නීති කියවීමට අමතක නොකරන්න @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
